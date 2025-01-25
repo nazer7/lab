@@ -1,1 +1,2 @@
-pp2_labs_2025spring
+echo # lab1 > lab1\README.md
+echo # lab2 > lab2\README.md
